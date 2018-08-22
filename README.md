@@ -8,7 +8,7 @@ This script runs as a scheduled task and will remove any completed or failed imp
 
 ## Installation
 1. Download the ["_**Remove-ImportRequest**_"](https://github.com/DoctorKisow/Remove-ImportRequest.git) script.  
-   See the **README.md** file located in the Update-ServerMembership directory for the install and scheduling instructions.    
+   See the **README.md** file located in the Remove-ImportRequest directory for the install and scheduling instructions.    
    **NOTE:** Follow Microsoft best-practices for the script folder location.  
 
 ## Scheduling
